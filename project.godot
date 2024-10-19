@@ -1,0 +1,4 @@
+[application]
+
+config/name="Desktop Me"
+config/icon="res://icon.png"
